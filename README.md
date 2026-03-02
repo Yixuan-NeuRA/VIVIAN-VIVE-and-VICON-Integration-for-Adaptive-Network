@@ -1,4 +1,4 @@
-<font size="18">**Description:**<font>  
+**<font size="18">Description:</font>**  
 This is a project for improving the low-cost motion tracking sensor performance close to a gold-standard motion capture system.
 
 Vicon: The Vicon motion capture system is the gold-standard motion capture system in the world (Vicon Motion Systems Ltd., Oxford, UK).  
