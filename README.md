@@ -16,7 +16,7 @@ VIVIAN_Dataset_V1\vive_vicon_CoM_data.csv: This dataset is used to map the sacru
 
 Try to finish these two tasks in the same or a similar machine learning structure.  
 
-Variables in the datasets:
+*Variables in the datasets:*  
 Subject: Individual IDs of 10 participants (HW3-001 to HW3-010)  
 Speed: Four participant walking speeds (0.5, 1.0, 1.5, 2.0 m/s), which do not affect performance and can be ignored.  
 Point: Sensor positions in three body locations (1: sacrum, 2: right foot, 3: left foot)  
