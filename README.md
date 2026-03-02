@@ -5,7 +5,7 @@ Vicon: The Vicon motion capture system is the gold-standard motion capture syste
 
 VIVE: VIVE Ultimate Tracker is a low-cost motion tracking sensor that combines an inertial measurement unit with a simultaneous localisation and mapping algorithm (HTC, Taiwan, China).  
 
-**Data preprocessing：**
+**Data preprocessing:**  
 Spatial Position Mapping and Synchronisation of Two Motion Capture Systems with Different Performance Characteristics
 DOI: https://doi.org/10.13140/RG.2.2.25764.13440  
 
