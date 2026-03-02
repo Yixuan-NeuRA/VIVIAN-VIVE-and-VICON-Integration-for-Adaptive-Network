@@ -19,5 +19,5 @@ Try to finish these two tasks in the same or a similar machine learning structur
 ***Code:***  
 VIVIAN_V4.1.ipynb: CNN+Transformer  
 VIVIAN_V4.2 (CNN-only).ipynb: CNN only  
-VIVIAN_V4.3 (Transformer-only).ipynb: Transformer only
+VIVIAN_V4.3 (Transformer-only).ipynb: Transformer only  
 These three codes are completely identical except for their model structures.
