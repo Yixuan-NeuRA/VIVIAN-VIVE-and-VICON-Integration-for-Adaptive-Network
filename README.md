@@ -12,8 +12,10 @@ DOI: https://doi.org/10.13140/RG.2.2.25764.13440
 **Dataset:**  
 VIVIAN_Dataset_V1\vive_vicon_comparison_data.csv  
 This dataset is used for the standard task of improving the performance of low-cost motion-tracking sensors toward a gold-standard motion capture system.
+
 VIVIAN_Dataset_V1\vive_vicon_CoM_data.csv  
 This dataset is used to map the sacrum tracker's position to the participant's centre of mass (CoM).  
+
 Try to finish these two tasks in the same or a similar machine learning architecture.  
 
 **Code:**  
