@@ -14,7 +14,7 @@ VIVIAN_Dataset_V1\vive_vicon_comparison_data.csv: This dataset is used for the s
 
 VIVIAN_Dataset_V1\vive_vicon_CoM_data.csv: This dataset is used to map the sacrum tracker's position to the participant's centre of mass (CoM).  
 
-Try to finish these two tasks in the same or a similar machine learning structure.  
+Try to finish these two tasks in the same or a similar machine learning structure. If the centre of mass estimation cannot be completed, then this task can be ignored.  
 
 *Variables in the datasets:*  
 Subject: Individual IDs of 10 participants (HW3-001 to HW3-010)  
