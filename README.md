@@ -1,4 +1,5 @@
-*Description:*
+**Description:**  
+
 This is a project for improving the low-cost motion tracking sensor performance close to a gold-standard motion capture system.
 
 Spatial Position Mapping and Synchronisation of Two Motion Capture Systems with Different Performance Characteristics
