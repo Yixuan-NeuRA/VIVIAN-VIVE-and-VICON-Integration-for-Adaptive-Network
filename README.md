@@ -10,21 +10,11 @@ Spatial Position Mapping and Synchronisation of Two Motion Capture Systems with 
 DOI: https://doi.org/10.13140/RG.2.2.25764.13440  
 
 ***Dataset:***  
-VIVIAN_Dataset_V1\vive_vicon_comparison_data.csv: This dataset is used for the standard task of improving the performance of low-cost motion-tracking sensors toward a gold-standard motion capture system.
+VIVIAN_Dataset_V3 2026.03.04\vive_vicon_comparison_data.csv: This dataset is used for the standard task of improving the performance of low-cost motion-tracking sensors toward a gold-standard motion capture system.
 
-VIVIAN_Dataset_V1\vive_vicon_CoM_data.csv: This dataset is used to map the sacrum tracker's position to the participant's centre of mass (CoM).  
+VIVIAN_Dataset_V3 2026.03.04\vive_vicon_CoM_data.csv: This dataset is used to map the sacrum tracker's position to the participant's centre of mass (CoM).  
 
 Try to finish these two tasks in the same or a similar machine learning structure. If the centre of mass estimation cannot be completed, then this task can be ignored.  
-
-*Variables in the datasets:*  
-Subject: Individual IDs of 10 participants (HW3-001 to HW3-010)  
-Speed: Four participant walking speeds (0.5, 1.0, 1.5, 2.0 m/s), which do not affect performance and can be ignored.  
-Point: Sensor positions in three body locations (1: sacrum, 2: right foot, 3: left foot)  
-Direction: 3D coordinate system X, Y, Z  
-ViconRowlndex: Timing frame count of the motion capture system (1-5000)  
-VIVERowlndex: Timing frame count of the sensor (1-5000)  
-Vicon: Data from the motion capture system  
-VIVE: Data from the sensor  
 
 ***Code:***  
 VIVIAN_V4.1.ipynb: CNN+Transformer  
