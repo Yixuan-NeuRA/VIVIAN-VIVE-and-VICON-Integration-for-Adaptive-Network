@@ -21,6 +21,7 @@ VIVIAN_V4.1.ipynb: CNN+Transformer
 VIVIAN_V4.2 (CNN-only).ipynb: CNN only  
 VIVIAN_V4.3 (Transformer-only).ipynb: Transformer only  
 These three codes are completely identical except for their model structures.  
+UNSW Katana System and JupyterLab
 
 *Library version:*    
 numpy: 1.26.0  
