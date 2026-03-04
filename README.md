@@ -14,9 +14,9 @@ VIVIAN_Dataset_V3 2026.03.04\VIVE_Vicon_comparison_data.csv: This dataset is use
 VIVIAN_Dataset_V3 2026.03.04\Vicon_dataset.csv: Vicon data only.  
 VIVIAN_Dataset_V3 2026.03.04\VIVE_dataset.csv: VIVE data only.  
 
-VIVIAN_Dataset_V3 2026.03.04\vive_vicon_CoM_data.csv: This dataset is used to map the sacrum tracker's position to the participant's centre of mass (CoM).  
-VIVIAN_Dataset_V3 2026.03.04\vive_vicon_CoM_data.csv: Vicon data only.  
-VIVIAN_Dataset_V3 2026.03.04\vive_vicon_CoM_data.csv: VIVE data only.  
+VIVIAN_Dataset_V3 2026.03.04\CoM_VIVE_Vicon_data.csv: This dataset is used to map the sacrum tracker's position to the participant's centre of mass (CoM).  
+VIVIAN_Dataset_V3 2026.03.04\CoM_Vicon_data.csv: Vicon data only.  
+VIVIAN_Dataset_V3 2026.03.04\CoM_VIVE_data.csv: VIVE data only.  
 
 Try to finish these two tasks in the same or a similar machine learning structure. If the centre of mass estimation cannot be completed, then this task can be ignored.  
 
