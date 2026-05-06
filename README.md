@@ -1,4 +1,4 @@
-#Description:  
+# Description:  
 This is a project for improving the low-cost motion tracking sensor performance close to a gold-standard motion capture system.
 Task 1:
 Task 2:
