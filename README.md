@@ -12,6 +12,8 @@ DOI: https://doi.org/10.13140/RG.2.2.25764.13440
 ***Code:***  
 VIVIAN_V4.1.ipynb: CNN+Transformer  
 VIVIAN_CoM_V4.1.ipynb: CNN+Transformer
+VIVIAN_V4.1.ipynb and VIVIAN_CoM_V4.1.ipynb use the same model architecture and training strategies. 
+The trained model will be saved in the current directory by default.
 
 
 *Library version:*    
