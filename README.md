@@ -24,7 +24,8 @@ This is a data preprocessing approach to translate two different motion capture 
 
 # ***Code:***  
 VIVIAN_V4.1.0.ipynb: CNN+Transformer  
-VIVIAN_CoM_V4.1.ipynb: CNN+Transformer
+VIVIAN_CoM_V4.1.ipynb: CNN+Transformer  
+
 VIVIAN_V4.1.ipynb and VIVIAN_CoM_V4.1.ipynb use the same model architecture and training strategies. 
 The trained model will be saved in the current directory by default.
 
