@@ -12,7 +12,9 @@ This is a project to improve the agreement with Vicon, particularly for gait par
 ***VUT/VIVE:*** VIVE Ultimate Tracker is a low-cost motion tracking sensor that combines an inertial measurement unit with a simultaneous localisation and mapping algorithm (HTC, Taiwan, China).  
 
 # ***Data preprocessing:***  
-Spatial Position Mapping and Synchronisation of Two Motion Capture Systems with Different Performance Characteristics
+This is a data preprocessing approach to translate two different motion capture systems. The core is the Kabsch algorithm.
+
+***Spatial Position Mapping and Synchronisation of Two Motion Capture Systems with Different Performance Characteristics:***  
 DOI: https://doi.org/10.13140/RG.2.2.25764.13440
 
 # ***Dataset:***
