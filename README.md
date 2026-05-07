@@ -18,9 +18,11 @@ This is a data preprocessing approach to translate two different motion capture 
 ***DOI: https://doi.org/10.13140/RG.2.2.25764.13440***
 
 # ***Dataset:***
-***Folder:*** Dataset for Task 1.
+***Folder:*** Dataset for Task 1.  
+The dataset includes: participant IDs, treadmill speeds (0.5, 1.0, 1.5, and 2.0 m/s), directions (anterior-posterior (AP, Y), medio-lateral (ML, X), and vertical (VT, Z)), tracker locations (sacrum (1), right foot (2), and left foot (3)), Vicon data, VUT data, and differences between Vicon and VUT.
 
-***Folder:*** Dataset for Task 2.
+***Folder:*** Dataset for Task 2.  
+The dataset includes: participant IDs, treadmill speeds (0.5, 1.0, 1.5, and 2.0 m/s), directions (anterior-posterior (AP, Y), medio-lateral (ML, X), and vertical (VT, Z)), Vicon CoM data, VUT sacrum location data, and differences between Vicon and VUT.
 
 # ***Code:***  
 ***VIVIAN_V4.1.0.ipynb:*** CNN+Transformer  
