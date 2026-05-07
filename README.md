@@ -30,7 +30,8 @@ The dataset includes: participant IDs, treadmill speeds (0.5, 1.0, 1.5, and 2.0 
 
 ***VIVIAN_V4.1.0.ipynb*** and ***VIVIAN_CoM_V4.1.ipynb*** use the same model architecture and training strategies. 
 The trained model will be saved in the current directory by default.
-
+Scripts were run and finished in the Jupyter Notebook of the Katana system, a shared computational cluster located at the University of New South Wales.  
+Therefore, two scripts can run following the cell order in the Jupyter Notebook.
 
 # ***Library version:***    
 ***numpy:*** 1.26.0  
