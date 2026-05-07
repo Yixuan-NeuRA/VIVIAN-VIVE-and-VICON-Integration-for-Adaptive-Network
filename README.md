@@ -23,17 +23,17 @@ This is a data preprocessing approach to translate two different motion capture 
 ***Folder:*** Dataset for Task 2.
 
 # ***Code:***  
-VIVIAN_V4.1.0.ipynb: CNN+Transformer  
-VIVIAN_CoM_V4.1.ipynb: CNN+Transformer  
+***VIVIAN_V4.1.0.ipynb:*** CNN+Transformer  
+***VIVIAN_CoM_V4.1.ipynb:*** CNN+Transformer  
 
-VIVIAN_V4.1.ipynb and VIVIAN_CoM_V4.1.ipynb use the same model architecture and training strategies. 
+***VIVIAN_V4.1.0.ipynb*** and ***VIVIAN_CoM_V4.1.ipynb*** use the same model architecture and training strategies. 
 The trained model will be saved in the current directory by default.
 
 
-# *Library version:*    
-numpy: 1.26.0  
-pandas: 2.0.3  
-torch: 2.7.0+cu126  
-matplotlib: 3.10.3  
-sklearn: 1.3.2  
-tqdm: 4.67.1  
+# ***Library version:***    
+***numpy:*** 1.26.0  
+***pandas:*** 2.0.3  
+***torch:*** 2.7.0+cu126  
+***matplotlib:*** 3.10.3  
+***sklearn:*** 1.3.2  
+***tqdm:*** 4.67.1  
