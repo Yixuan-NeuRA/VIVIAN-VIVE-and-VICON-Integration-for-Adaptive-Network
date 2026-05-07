@@ -18,9 +18,9 @@ This is a data preprocessing approach to translate two different motion capture 
 ***DOI: https://doi.org/10.13140/RG.2.2.25764.13440***
 
 # ***Dataset:***
-***Folder:*** The dataset for Task 1.
+***Folder:*** Dataset for Task 1.
 
-***Folder:*** The dataset for Task 2
+***Folder:*** Dataset for Task 2.
 
 # ***Code:***  
 VIVIAN_V4.1.0.ipynb: CNN+Transformer  
