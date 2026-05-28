@@ -25,10 +25,10 @@ The dataset includes: participant IDs, treadmill speeds (0.5, 1.0, 1.5, and 2.0 
 The dataset includes: participant IDs, treadmill speeds (0.5, 1.0, 1.5, and 2.0 m/s), directions (anterior-posterior (AP, Y-axis), medio-lateral (ML, X-axis), and vertical (VT, Z-axis)), Vicon CoM data, VUT sacrum location data, and differences between Vicon and VUT.
 
 # ***Code:***  
-***VIVIAN_V4.1.0_LOPO.ipynb:*** CNN+Transformer  
-***VIVIAN_CoM_V4.1_LOPO.ipynb:*** CNN+Transformer  
+***VIVIAN_V4.1.0 LOPO.ipynb:*** CNN+Transformer  
+***VIVIAN_CoM_V4.1 LOPO.ipynb:*** CNN+Transformer  
 
-***VIVIAN_V4.1.0_LOPO.ipynb*** and ***VIVIAN_CoM_V4.1_LOPO.ipynb*** use the same model architecture and training strategies. 
+***VIVIAN_V4.1.0 LOPO.ipynb*** and ***VIVIAN_CoM_V4.1 LOPO.ipynb*** use the same model architecture and training strategies. 
 The trained model will be saved in the current directory by default.
 Scripts were run and finished in the Jupyter Notebook of the Katana system, a shared computational cluster located at the University of New South Wales.  
 Therefore, two scripts can run following the cell order in the Jupyter Notebook.
